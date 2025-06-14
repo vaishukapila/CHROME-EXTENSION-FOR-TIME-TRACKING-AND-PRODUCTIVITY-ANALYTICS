@@ -26,5 +26,7 @@ This project was a great learning experience for real world problem I learned ho
 
 output:
 
+![Image](https://github.com/user-attachments/assets/9452f9db-2723-4b05-aac7-4f17cd44facc)
 
+https://github.com/user-attachments/assets/5c7b3eda-ad11-4cad-ac64-747d6a4f1239
 
